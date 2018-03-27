@@ -47,6 +47,12 @@ div.message {
     grid-area: message;
     justify-self: center;
     display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+div.message h3 {
+
 }
 
 h1 {

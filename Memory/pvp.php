@@ -20,7 +20,7 @@
                 <h2>{score}</h2>
             </div>
             <div class="message">
-                <p>Mikes turn</p>
+                <h3>{all messages here}</h3>
             </div>
         </div>
     </body>
