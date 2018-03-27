@@ -10,9 +10,9 @@
             <main>
                 <h1>Memory for kids!</h1>
                 <div class="buttons">
-                    <button type="button" name="button">Speler tegen Speler</button>
-                    <button type="button" name="button">Alleen met tijd</button>
-                    <button class="highscore-btn" type="button" name="button">Highscores</button>
+                    <a href="pvp.php"><button type="button" name="button">speler tegen speler</button></a>
+                    <button type="button" name="button">aleen met tijd</button>
+                    <button class="highscore-btn" type="button" name="button">highscores</button>
                 </div>
             </main>
         </div>
