@@ -1,0 +1,6 @@
+class playerTwo {
+  constructor(){
+
+  }
+
+}

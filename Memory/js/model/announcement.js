@@ -1,0 +1,5 @@
+class announcement {
+  constructor(){
+    
+  }
+}
