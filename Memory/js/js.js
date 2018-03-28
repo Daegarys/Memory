@@ -1,5 +1,7 @@
+"use strict";
 window.onload = start;
 
-function start(){
-  var controller = new Controller();
+function start()
+{
+    new Controller();
 }

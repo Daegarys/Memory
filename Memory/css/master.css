@@ -42,7 +42,7 @@ main .buttons {
     justify-content: center;
 }
 
-main .buttons button {
+main .buttons button[type="button"] {
     display: block;
     margin: 20px;
     background-color: #D19C9C;
@@ -65,4 +65,39 @@ footer {
     padding: 10px;
     margin-top: -40px;
     background-color: #D19C9C;
+}
+
+.hide {
+    display: block;
+}
+
+.form {
+    text-align:center;
+    display: none;
+}
+
+.form input {
+    display: block;
+    width: 250px;
+    padding: 12px 18px;
+    margin: auto;
+    border-radius: 25px;
+    border: solid 4px #D19C9C;
+}
+
+.form input:last-of-type {
+    margin-top: 10px;
+}
+
+.form button {
+    display: block;
+    margin: 20px auto;
+    background-color: #D19C9C;
+    border: none;
+    border-radius: 25px;
+    width: 280px;
+    padding: 13px 0;
+    color: #707070;
+    font-size: 16px;
+    cursor: pointer;
 }
